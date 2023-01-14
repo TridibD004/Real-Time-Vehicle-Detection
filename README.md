@@ -18,7 +18,5 @@ This project detects Cars from Real Time Videos and makes box around them to Ide
 ### Author :-
 [Tridib Dalui](https://github.com/TridibD004)
 
-### My Synapse 1.0. Ticket:
 
-![Tridib](https://user-images.githubusercontent.com/105111251/211640187-5fffd375-f04e-493a-a2ff-cd293351eefa.png)
 
